@@ -30,7 +30,7 @@ import OrdersList from 'sections/dashboard/analytics/OrdersList';
 import PageViews from 'sections/dashboard/analytics/PageViews';
 import ReportChart from 'sections/dashboard/analytics/ReportChart';
 import SalesCardChart from 'sections/dashboard/analytics/SalesCardChart';
-import SalesChart from 'sections/dashboard/SalesChart';
+//import SalesChart from 'sections/dashboard/SalesChart';
 import TransactionHistory from 'sections/dashboard/analytics/TransactionHistory';
 import UsersCardChart from 'sections/dashboard/analytics/UsersCardChart';
 import LabelledTasks from 'sections/dashboard/analytics/LabelledTasks';
