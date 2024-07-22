@@ -33,7 +33,7 @@ import MonthlyBarChart from 'sections/dashboard/default/MonthlyBarChart';
 import ReportChart from 'sections/dashboard/analytics/ReportChart';
 import IncomeChart from 'sections/dashboard/analytics/IncomeChart';
 
-import SalesChart from 'sections/dashboard/SalesChart';
+//import SalesChart from 'sections/dashboard/SalesChart';
 import AcquisitionChannels from 'sections/dashboard/analytics/AcquisitionChannels';
 
 // assets
