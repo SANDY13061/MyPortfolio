@@ -24,7 +24,7 @@ import AnalyticEcommerce from 'components/cards/statistics/AnalyticEcommerce';
 import IncomeAreaChart from 'sections/dashboard/default/IncomeAreaChart';
 import MonthlyBarChart from 'sections/dashboard/default/MonthlyBarChart';
 import ReportAreaChart from 'sections/dashboard/default/ReportAreaChart';
-import SalesChart from 'sections/dashboard/SalesChart';
+//import SalesChart from 'sections/dashboard/SalesChart';
 import OrdersTable from 'sections/dashboard/default/OrdersTable';
 
 // assets
