@@ -1,0 +1,17 @@
+/* Remove blue outline when a node is selected */
+.ant-tree-node-selected {
+    background: none !important;
+    border: none !important;
+  }
+  
+  /* Ensure the selected node fits within the card */
+  .ant-tree-node-content-wrapper {
+    padding: 8px !important;
+    border-radius: 8px !important;
+  }
+  
+  /* Optionally, add a custom border for visual indication */
+  .ant-tree-node-selected .ant-tree-node-content-wrapper {
+    border: 2px solid #1976d2 !important; /* Adjust color to fit your design */
+  }
+  
